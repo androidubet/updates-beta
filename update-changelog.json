@@ -1,10 +1,10 @@
 {
-  "latestVersion": "1.2.2",
-  "latestVersionCode": "10",
-  "url": "https://github.com/javiersantos/AppUpdater/releases",
+  "latestVersion": "0.10.0",
+  "latestVersionCode": "10000",
+  "url": "https://github.com/androidubet/updates-beta/raw/main/",
   "releaseNotes": [
-    "- First evolution",
-    "- Second evolution",
+    "- First...",
+    "- Second...",
     "- Bug fixes"
   ]
 }
